@@ -1,0 +1,60 @@
+Name:
+ID:
+===============
+step 3: Create a new directory with the name cs220 and then change to the directory created. Print the absolute path of the current directory
+
+Command:
+
+
+------
+
+step 4: Go to the link , and clone the given repository
+into cs220 directory
+
+Command:
+
+
+-------
+
+step 5: List the contents of current directory.
+
+
+Command:
+
+
+-------
+
+step 6: Go to lab01 directory.
+
+Command:
+
+
+-------
+
+step 7: List the contents of the current directory
+
+Command:
+
+
+------
+
+step 8: Show the contents of text.txt
+
+Command:
+
+
+------
+
+step 9:  Go to home directory
+
+Command:
+
+
+------
+
+step 10: . Use git to show the status of the repository, add file lab01.txt, commit to the repository with message: “done with lab01”, then push to github.
+
+Command:
+
+
+-------
